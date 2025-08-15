@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Viman Fernando</h1>
-<h3 align="center">A passionate crypto analysis. Currently studying in University of Colombo School Of Computing. Still gathering knowledge and starting.
-## 🔐 Cryptography Interests
-- Symmetric & Asymmetric Encryption
-- Hashing Algorithms (SHA, MD5)
-- Blockchain fundamentals
-- Secure communication protocols
-- Cryptocurrency
+<h3 align="center">A passionate crypto analysis. Currently studying in University of Colombo School Of Computing. Still gathering knowledge and starting.<br>
+  🔐 <b>Cryptography Interests</b><br>
+- Symmetric & Asymmetric Encryption<br>
+- Hashing Algorithms (SHA, MD5)<br>
+- Blockchain fundamentals<br>
+- Secure communication protocols<br>
+- Cryptocurrency<br>
 </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmanfdo" alt="vmanfdo" /></a> </p>
