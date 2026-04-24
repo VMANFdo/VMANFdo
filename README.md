@@ -8,9 +8,9 @@
 <td width="50%" align="left">
 
 - 🌱 I'm currently learning **Information Systems**  
-- 🧑‍🎓 I'm an Undergraduate at **UCSC**  
+- 🧑‍🎓 Undergraduate at **UCSC**  
 - 💬 Let's talk about **Crypto & Blockchain**  
-- 📫 How to reach me **vimannimneth@gmail.com**
+- 📫 Reach me via **vimannimneth@gmail.com**
 
 </td>
 <td width="50%" align="center">
