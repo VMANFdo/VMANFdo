@@ -48,35 +48,36 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">🌐 Web Development</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><br>HTML5</td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><br>CSS3</td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br>JavaScript</td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/><br>React</td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><br>Node.js</td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40"/><br>NestJS</td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/><br>PHP</td>
+    <td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/><br>Figma</td>
+  </tr>
+</table>
 
+<h3 align="center">💻 Programming Languages</h3>
 <table align="center">
   <tr>
     <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/><br>C</td>
     <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br>C++</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original-wordmark.svg" width="40" height="40"/><br>CSS</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original-wordmark.svg" width="40" height="40"/><br>JS</td>
-    <td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/><br>Figma</td>
-    <td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br>Git</td>
-  </tr>
-  <tr>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><br>HTML5</td>
     <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br>Java</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br>JavaScript</td>
-    <td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/><br>Kotlin</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br>Linux</td>
-    <td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40"/><br>MariaDB</td>
-    <td align="center" width="60"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/><br>MSSQL</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br>MySQL</td>
-  </tr>
-  <tr>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40"/><br>NestJS</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><br>Node.js</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/><br>Oracle</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/><br>PHP</td>
     <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br>Python</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/><br>React</td>
-    <td align="center" width="60"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/><br>React Native</td>
-    <td align="center" width="60"></td>
   </tr>
 </table>
+
+<h3 align="center">🛠️ Tools & Databases</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br>Git</td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br>Linux Basics</td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br>MySQL</td>
+  </tr>
+</table>
+
