@@ -22,12 +22,30 @@
 ---
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/vmanfdo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/vmanfdo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://fb.com/vmanfdo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/vmanfdo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://twitter.com/vmanfdo" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/vmanfdo" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://fb.com/vmanfdo" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/vmanfdo" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -35,13 +53,11 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/><br>Android</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/><br>Bootstrap</td>
     <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/><br>C</td>
     <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br>C++</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><br>CSS3</td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original-wordmark.svg" width="40" height="40"/><br>CSS</td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original-wordmark.svg" width="40" height="40"/><br>JS</td>
     <td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/><br>Figma</td>
-    <td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/><br>Flutter</td>
     <td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br>Git</td>
   </tr>
   <tr>
