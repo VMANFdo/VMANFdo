@@ -1,6 +1,7 @@
-<p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
+<p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="80px"></p>
 <h1 align="center">Hi 👋, I'm Viman Fernando</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Cybersecurity and Web Development</h3>
+<h4 align="center"> Still More to Learn About...</h4>
 
 <table align="center">
 <tr border="none">
@@ -83,8 +84,8 @@
 <h3 align="center">Badges Earned</h3>
 <table align="center">
   <tr>
-    <td align="center" width="60"><a href="https://www.credly.com/badges/9cdda72e-63ac-4383-a23d-cf292c3af324/public_url"><img src="open-source-foundations.png" width="40" height="40"/><br>Open Source Foundations</a></td>
-    <td align="center" width="60"><a href="https://www.credly.com/badges/a854e493-c6cc-4078-ba7d-daf55f6bb7d9/public_url"><img src="generative-ai-overview-for-project-managers.png" width="40" height="40"/></a><br>Generative AI Overview for Project Managers</td>
+    <td align="center" width="60"><a href="https://www.credly.com/badges/9cdda72e-63ac-4383-a23d-cf292c3af324/public_url"><img src="open-source-foundations.png" width="40" height="40"/></a><br>Open Source Foundations</td>
+    <td align="center" width="60"><a href="https://www.credly.com/badges/a854e493-c6cc-4078-ba7d-daf55f6bb7d9/public_url"><img src="generative-ai-overview-for-project-managers.png" width="40" height="40"/></a><br>Generative AI for PM</td>
   </tr>
 </table>
 
