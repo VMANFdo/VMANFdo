@@ -56,7 +56,6 @@
     <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br>JavaScript</td>
     <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/><br>React</td>
     <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><br>Node.js</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40"/><br>NestJS</td>
     <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/><br>PHP</td>
     <td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/><br>Figma</td>
   </tr>
@@ -78,6 +77,14 @@
     <td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br>Git</td>
     <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br>Linux Basics</td>
     <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br>MySQL</td>
+  </tr>
+</table>
+
+<h3 align="center">Badges Earned</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="60"><img src="https://www.credly.com/badges/9cdda72e-63ac-4383-a23d-cf292c3af324/public_url" width="40" height="40"/><br>Open Source Foundations</td>
+    <td align="center" width="60"><img src="https://www.credly.com/badges/a854e493-c6cc-4078-ba7d-daf55f6bb7d9/public_url" width="40" height="40"/><br>Generative AI Overview for Project Managers</td>
   </tr>
 </table>
 
