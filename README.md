@@ -83,8 +83,8 @@
 <h3 align="center">Badges Earned</h3>
 <table align="center">
   <tr>
-    <td align="center" width="60"><img src="https://www.credly.com/badges/9cdda72e-63ac-4383-a23d-cf292c3af324/public_url" width="40" height="40"/><br>Open Source Foundations</td>
-    <td align="center" width="60"><img src="https://www.credly.com/badges/a854e493-c6cc-4078-ba7d-daf55f6bb7d9/public_url" width="40" height="40"/><br>Generative AI Overview for Project Managers</td>
+    <td align="center" width="60"><a href="https://www.credly.com/badges/9cdda72e-63ac-4383-a23d-cf292c3af324/public_url"><img src="open-source-foundations.png" width="40" height="40"/><br>Open Source Foundations</a></td>
+    <td align="center" width="60"><a href="https://www.credly.com/badges/a854e493-c6cc-4078-ba7d-daf55f6bb7d9/public_url"><img src="generative-ai-overview-for-project-managers.png" width="40" height="40"/></a><br>Generative AI Overview for Project Managers</td>
   </tr>
 </table>
 
