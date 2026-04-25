@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="80px"></p>
 <h1 align="center">Hi 👋, I'm Viman Fernando</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Cybersecurity and Web Development</h3>
-<h4 align="center"> Still More to Learn About...</h4>
+<h4 align="center"> Still More to Learn...</h4>
 
 <table align="center">
 <tr border="none">
@@ -17,34 +17,6 @@
   <img align="center" alt="Coding" width="450" src="Screenshot 2026-04-24 221956.png">
 </td>
 </tr>
-</table>
-
----
-
-<h3 align="center">Connect with me:</h3>
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://linkedin.com/in/vmanfdo" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/vmanfdo" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://fb.com/vmanfdo" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://instagram.com/vmanfdo" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 ---
